@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Enchanted Moonstone Rings",
+      "category": "Wearables",
+      "brand": "Hope-Land",
+      "price": 9999.99,
+      "stock": 118,
+      "description": "Rings set with glowing moonstones, reputed to enhance intuition, provide protection during travel, and reveal hidden truths under the light of the moon.",
+      "image": "./public/cd1.png"
+    },
+    {
+      "id": 2,
+      "name": "Dragon's Breath Elixirs",
+      "category": "Elixir",
+      "brand": "Elf-House",
+      "price": 499.99,
+      "stock": 100,
+      "image": "./public/cd2.png",
+      "description": "Potions bottled from the breath of dragons, rumored to provide immense strength and fiery protection."
+    },
+    {
+      "id": 3,
+      "name": "Wizard's Spellbooks (Backpaper)",
+      "category": "Books",
+      "brand": "Spellmakedo",
+      "price": 549.99,
+      "stock": 30,
+      "image": "./public/cd5.png",
+      "description": "Ancient tomes filled with powerful spells and enchantments, perfect for aspiring wizards and witches."
+    },
+    {
+      "id": 4,
+      "name": "Mermaid Tears Jewelry",
+      "category": "Wearables",
+      "brand": "OceanWear",
+      "price": 1099.99,
+      "stock": 20,
+      "image": "./public/cd4.png",
+      "description": "Exquisite necklaces and bracelets made from the tears of mermaids, said to enhance beauty and grant the wearer a melodious voice."
+    },
+    {
+      "id": 5,
+      "name": "Unicorn Horn Charms",
+      "category": "Charms",
+      "brand": "Eden Land",
+      "price": 149.99,
+      "stock": 30,
+      "image": "./public/cd3.png",
+      "description": " Small, beautifully crafted charms fashioned to look like unicorn horns, believed to bring good luck and purify negative energy."
+    },
+    {
+      "id": 6,
+      "name": "Fairy Dust Golden Velvet Pouches",
+      "category": "Magic Dust",
+      "brand": "Fly-Air",
+      "price": 899.99,
+      "stock": 20,
+      "image": "./public/cd6.png",
+      "description": "Small pouches filled with shimmering fairy dust, claimed to have the ability to grant wishes and bring a touch of magic to everyday life."
+    }
+  ]
