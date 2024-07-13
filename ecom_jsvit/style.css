@@ -18,8 +18,8 @@
   --buttonColor2: #2a2c30;
   --secondaryColor: #4b4f56;
   --borderColor: #e3eaf0;
-  --backgroundColor: #411ebc;
-  --backgroundSecondary: #21463b;
+  --backgroundColor: #d1aeaa;
+  --backgroundSecondary: #0c0404;
   --textColor: #1e1f23;
   --anchorColor: #2a2c30;
   --main-color: #9d20ce;
@@ -288,14 +288,14 @@ main {
 
   background-image: linear-gradient(
     to top right,
-    #070a09,
-    #070a09,
-    #21463b,
-    #24614d,
-    #277c5f,
-    #21463b,
-    #070a09,
-    #070a09
+    #7c6040,
+    #b67f7f,
+    #4a4cd5,
+    #613124ac,
+    #ab5454,
+    #e2a6a9,
+    #975b2e90,
+    #523a3ad9
   );
 }
 
@@ -317,7 +317,7 @@ main {
 }
 
 .custom-shape-divider-bottom-1715876939 .shape-fill {
-  fill: #277C5F;
+  fill: #9941cf;
 }
 
 main .section-hero {
@@ -559,7 +559,7 @@ main .section-hero {
     background-color: #277c6079;
   }
   100% {
-    background-color: #277c6023;
+    background-color: #1e9d7323;
   }
 }
 
@@ -684,7 +684,7 @@ footer {
 .footer-container .content_4 input[type="email"] {
   background-color: var(--textColor);
   border: none;
-  color: var(--backgroundColor);
+  color: blue;
   outline: none;
   padding: 1.4rem 0.8rem;
   width: 100%;
@@ -737,7 +737,7 @@ footer {
   padding: 1.6rem;
   /* max-width: 1000px; */
   margin: 1.8vh auto;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  box-shadow: rgba(183, 42, 42, 0.372) 0px 4px 12px;
   border-radius: 0.3rem;
   /*border: 0.1rem solid #ccc;
   */
@@ -1129,6 +1129,7 @@ footer {
 
   .grid-three--cols {
     grid-template-columns: 1fr;
+    counter-reset: brown;l
   }
 
   .section-hero .hero-heading {
